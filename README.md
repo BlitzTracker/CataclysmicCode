@@ -1,4 +1,4 @@
-### Yo guys!!! 🤟🤯🤟 Cataclysmic Code here! 🌩️⚡️🌩️
+### Hey guys!!! 🤟🤯🤟 Cataclysmic Code here! 🌩️⚡️🌩️
 
 I’m currently working on learning Kotlin for Android & firguring out the oh-so-complicated Webgl. I know a about six programming languages (JavaScript, HTML, CSS, Python, Kotlin & C++) but JavaScript, HTML & CSS are definetly my strong points.
 
