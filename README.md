@@ -1,5 +1,5 @@
-### Hey guys!!! 🤟🤯🤟 Cataclysmic Code here! 🌩️⚡️🌩️
-
+## <div align='center'>Hey guys! 🤟🤯🤟 Cataclysmic Code here! 🌩️⚡️🌩️</div>
+<br>
 I’m currently working on learning Kotlin for Android & firguring out the oh-so-complicated Webgl. I know a about six programming languages (JavaScript, HTML, CSS, Python, Kotlin & C++) but JavaScript, HTML & CSS are definetly my strong points.
 
 I used to work on Khan Academy but now I'm moving over here to Github for programming stuff because its *waaay* better designed for this kind of thing. You can still check out some of my projects that are on KA though by looking at my profile [over here](https://www.khanacademy.org/profile/kaid_820167475461480890635740). You won't want to miss out on some of the epic games I've made! 😉
